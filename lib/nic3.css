@@ -33,8 +33,8 @@
   color: #fff;
   background-color: #49b1f5;
 }
-#full_page{background-image:url(https://cdn.jsdelivr.net/gh/whyyznsh/cdn/20200810210458.jpg)
+.full_page{background-image:url(https://cdn.jsdelivr.net/gh/whyyznsh/cdn/20200810210458.jpg)
 }
 @media screen and (max-width:767px){
-#full_page{background-image:url(https://cdn.jsdelivr.net/gh/whyyznsh/cdn/20200810210426.jpg)
+.full_page{background-image:url(https://cdn.jsdelivr.net/gh/whyyznsh/cdn/20200810210426.jpg)
 }
